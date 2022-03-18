@@ -13,6 +13,7 @@
 		FA4C3C4C27E4AF6900F513CC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA4C3C4A27E4AF6900F513CC /* Main.storyboard */; };
 		FA4C3C4E27E4AF6D00F513CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4C3C4D27E4AF6D00F513CC /* Assets.xcassets */; };
 		FA4C3C5127E4AF6D00F513CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA4C3C4F27E4AF6D00F513CC /* LaunchScreen.storyboard */; };
+		FA73C8C927E511B700C506FB /* AciklamalarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA73C8C827E511B700C506FB /* AciklamalarViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FA4C3C4D27E4AF6D00F513CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA4C3C5027E4AF6D00F513CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA4C3C5227E4AF6D00F513CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA73C8C827E511B700C506FB /* AciklamalarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AciklamalarViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				FA4C3C4427E4AF6900F513CC /* AppDelegate.swift */,
 				FA4C3C4627E4AF6900F513CC /* SceneDelegate.swift */,
 				FA4C3C4827E4AF6900F513CC /* ViewController.swift */,
+				FA73C8C827E511B700C506FB /* AciklamalarViewController.swift */,
 				FA4C3C4A27E4AF6900F513CC /* Main.storyboard */,
 				FA4C3C4D27E4AF6D00F513CC /* Assets.xcassets */,
 				FA4C3C4F27E4AF6D00F513CC /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				FA4C3C4927E4AF6900F513CC /* ViewController.swift in Sources */,
 				FA4C3C4527E4AF6900F513CC /* AppDelegate.swift in Sources */,
 				FA4C3C4727E4AF6900F513CC /* SceneDelegate.swift in Sources */,
+				FA73C8C927E511B700C506FB /* AciklamalarViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
